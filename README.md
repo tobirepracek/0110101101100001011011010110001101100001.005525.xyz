@@ -1,4 +1,3 @@
-# 0110101101100001011011010110001101100001.005525.xyz
 Ahojky, toto je testovací repository pro test cname.
 (BTW jméno je v binary, po překladu něco vyjde, zde přikládám celou verzi)
 
